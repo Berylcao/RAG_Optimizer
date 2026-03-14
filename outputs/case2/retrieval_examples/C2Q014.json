@@ -1,0 +1,22 @@
+{
+  "query_id": "C2Q014",
+  "retrieved_doc_ids": [
+    "D34144",
+    "D64239",
+    "D35053",
+    "D85428",
+    "D01067"
+  ],
+  "contexts": [
+    "Eagle Aviation France hotpotqa_wikipedia. Eagle Aviation France was a charter airline based in Saint-Nazaire, France. Its wet lease operations were based in Paris at Charles de Gaulle Airport.",
+    "VIM Airlines hotpotqa_wikipedia. VIM Airlines (legally \"VIM Avia\") is a Russian airline headquartered in Moscow based at Domodedovo International Airport. It offers international scheduled and charter operations for both passengers and cargo as well as wet lease services.",
+    "Bishop International Airport hotpotqa_wikipedia. Bishop International Airport (IATA: FNT, ICAO: KFNT, FAA LID: FNT) is a commercial and general aviation airport located in Flint, Michigan. It is named after banker and General Motors board member Arthur Giles Bishop (April 12, 1851 – January 22, 1944), who donated 220 acres of his farmland for the airport in 1928. The third busiest airport in Michigan, it surpassed competitor MBS International Airport in terms of airline operations in 2002. In 2007, 1,071,238 passengers used Bishop International Airport; in 2011, 938,914 passengers used the airport. It is included in the Federal Aviation Administration (FAA) National Plan of Integrated Airport Systems for 2017–2021, in which it is categorized as a small hub primary commercial service facility.",
+    "Jordan Aviation hotpotqa_wikipedia. Jordan Aviation (PSC) is an airline based in Amman, Jordan. It operates worldwide charter flights, provides wet lease services to major airlines seeking additional capacity and is also an important provider of air transportation for UN peacekeeping forces. Its main base is Queen Alia International Airport (AMM/OJAM), Amman from where it operates its fleet of Wide Body and Narrow Body aircraft. In addition it has its own MRO which forms part of is Operations & Technical Centre opened in October 2010. Jordan Aviation is an IATA member and an IOSA certificated airline. It is also a member of the Arab Air Carriers Organization – AACO, the International Air Carrier Association – IACA and the Flight Safety Foundation – [F",
+    "Phuket Air hotpotqa_wikipedia. Phuket Air (Phuket Airlines Co. Ltd) is an airline based in Bangkok, Thailand. The airline currently specialises in leasing its fleet of Boeing 747 and 737 aircraft on an ACMI (Aircraft, Crews, Maintenance, Insurance) as well as wet lease basis to airlines worldwide needing extra passenger capacity. Other services provided include international charter services, \"ad hoc\" wet leasing services, religious pilgrimage charters (Hajj/Umrah) and dry lease services. Saudi Arabian Airlines is a major long term client of Phuket Air. In the past, the airline provided scheduled domestic and international air services. Its main base is at Suvarnabhumi Airport, Bangkok, with a hub at Phuket International Airport, Phuket. The airline was an international scheduled carrier before it shifted its focus to the ACMI/wet lease market."
+  ],
+  "metrics": {
+    "retrieval_coverage_proxy": 0.5,
+    "groundedness": 1.0,
+    "citation_quality": 1.0
+  }
+}

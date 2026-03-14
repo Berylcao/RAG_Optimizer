@@ -1,0 +1,22 @@
+{
+  "query_id": "C1Q002",
+  "retrieved_doc_ids": [
+    "D37411",
+    "D42307",
+    "D19433",
+    "D12574",
+    "D56843"
+  ],
+  "contexts": [
+    "Tivoli Gardens (or simply Tivoli) is a famous amusement park and pleasure garden in Copenhagen, Denmark. The park opened on 15 August 1843 and is the second-oldest operating amusement park in the world, after Dyrehavsbakken in nearby Klampenborg, also in Denmark.",
+    "Tivolis Koncertsal is a 1,660-capacity concert hall located at Tivoli Gardens in Copenhagen, Denmark. The building, which was designed by Frits Schlegel and Hans Hansen, was built between 1954 and 1956.",
+    "Hawthorn Hall is a former country house in Hall Road, Wilmslow, Cheshire, England. It originated in about 1610 as a timber-framed yeoman house for John Chavman of mnc. It was improved and encased in brick for John Leigh in 1698. Its use changed in the 19th century, and in 1835 it opened as a homeless shelter school. The building has since been used as offices. It is constructed in plum-coloured brick, with a Kerridge stone-slate roof, a stone ridge, and three brick chimneys. Parts of the timber-framing can still be seen in the roof gables, and in an internal wall. The plan consists of a long rectangle. The house is in 2½ storeys, and has a near-symmetrical north front. There are four gables with bargeboards and mace finials. Each gable contains a pair of wooden mullioned and transomed windows. In the centre is a doorway, flanked by plain pilasters, and surmounted by a segmental hood framing a cartouche containing the date 1698. At the top of the hall, above the door, is a small balustrade, behind which is a half-glazed lantern with a cupola and a weathervane. The south front is similar to the north front, although the door is not central. This door is flanked by fluted pilasters, and surmounted by a plaque with a lion rampant. The east front has two gables. The architectural historian Nikolaus Pevsner comments that the house is \"good to look at, though conservative for its date\". The house, together with parts of the garden walls, is recorded in the National Heritage List for England as a designated Grade II* listed building.",
+    "Tivoli One is a live album by pianist Duke Jordan's Trio recorded at the Tivolis Koncertsal and first released on the Danish SteepleChase label in 1984.",
+    "Tivoli Two is a live album by pianist Duke Jordan's Trio recorded at the Tivolis Koncertsal and first released on the Danish SteepleChase label in 1984."
+  ],
+  "metrics": {
+    "context_recall": 1.0,
+    "answer_similarity": 0.6894998183617225,
+    "faithfulness": 0.9
+  }
+}

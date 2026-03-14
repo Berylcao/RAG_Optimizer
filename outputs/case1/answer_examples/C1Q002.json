@@ -1,0 +1,7 @@
+{
+  "query_id": "C1Q002",
+  "query": "When did the park at which Tivolis Koncertsal is located open?",
+  "generated_answer": "Tivoli Gardens, where Tivolis Koncertsal is located, opened on August 15, 1843.",
+  "reference_answer": "15 August 1843",
+  "error_type": "NONE"
+}

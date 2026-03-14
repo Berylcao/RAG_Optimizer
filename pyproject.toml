@@ -1,0 +1,21 @@
+[project]
+name = "rag-optimizer"
+version = "0.1.0"
+description = "Automated RAG pipeline optimizer for retrieval and generation experiments"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "optuna>=3.5.0",
+    "rank_bm25>=0.2.2",
+    "dspy>=2.6.27",
+    "openai>=1.0.0",
+    "sentence-transformers>=2.2.0",
+    "torch>=2.0.0",
+    "numpy>=1.24.0",
+    "pandas>=2.0.0",
+    "pydantic>=2.0.0",
+    "python-dotenv>=1.0.0",
+    "tqdm>=4.65.0",
+    "PyYAML>=6.0.1",
+    "datasets>=2.14.0",
+]

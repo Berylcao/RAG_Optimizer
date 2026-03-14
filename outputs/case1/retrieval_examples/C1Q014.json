@@ -1,0 +1,22 @@
+{
+  "query_id": "C1Q014",
+  "retrieved_doc_ids": [
+    "D33534",
+    "D75330",
+    "D08523",
+    "D82629",
+    "D54414"
+  ],
+  "contexts": [
+    "The Lingnan Fine Arts Museum () of the Academia Sinica is a museum in Nangang District, Taipei, Taiwan.",
+    "Taipei ( ), officially known as Taipei City, is the capital and a special municipality of Taiwan (officially known as the Republic of China, \"ROC\"). Sitting at the northern tip of the island, Taipei City is an enclave of the municipality of New Taipei City. It is about 25 km southwest of the northern port city Keelung. Most of the city is located on the Taipei Basin, an ancient lakebed bounded by the two relatively narrow valleys of the Keelung and Xindian rivers, which join to form the Tamsui River along the city's western border. Formerly known as Taipeh-fu during the Qing era and Taihoku under Japanese rule, Taipei became the capital of Taiwan Province as part of the Republic of China in 1945 and has been the capital of the ROC since 1949, when the Kuomintang lost the mainland to the Communists in the Chinese Civil War.",
+    "Synkowce is a village in the administrative district of Gmina Nowy Dwór, within Sokółka County, Podlaskie Voivodeship, in north-eastern Poland, close to the border with Belarus. It lies approximately 25 km north of Sokółka and 60 km north of the regional capital Białystok.",
+    "Villa Unión is the second largest town in the municipality of Mazatlán, after the port of Mazatlán. It is located twenty kilometers south of the city on the banks of the Presidio River.",
+    "Antolin is a village in the administrative district of Gmina Konstantynów, within Biała Podlaska County, Lublin Voivodeship, in eastern Poland. It lies approximately 25 km north of Biała Podlaska and 119 km north of the regional capital Lublin."
+  ],
+  "metrics": {
+    "context_recall": 1.0,
+    "answer_similarity": 1.0000000715255737,
+    "faithfulness": 1.0
+  }
+}

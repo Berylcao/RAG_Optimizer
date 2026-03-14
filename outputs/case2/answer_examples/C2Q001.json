@@ -1,0 +1,7 @@
+{
+  "query_id": "C2Q001",
+  "query": "Jason Regler, stated that he had the idea for the flashing wristbands during a song built around which instrument ?",
+  "generated_answer": "Jason Regler had the idea for the flashing wristbands during a Coldplay concert while listening to \"Fix You\" on the radio.",
+  "reference_answer": "",
+  "error_type": "GROUNDING_FAILURE"
+}

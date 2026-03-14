@@ -1,0 +1,7 @@
+{
+  "query_id": "C2Q003",
+  "query": "Which \"Blackzilians\" fighter is currently competing in the Middleweight division of Ultimate Fighting Championship?",
+  "generated_answer": "Vitor Belfort",
+  "reference_answer": "",
+  "error_type": "CITATION_ERROR"
+}

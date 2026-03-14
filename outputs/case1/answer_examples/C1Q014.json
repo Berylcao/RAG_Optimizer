@@ -1,0 +1,7 @@
+{
+  "query_id": "C1Q014",
+  "query": "Which port city lies approximately 25 km north of the Lingnan Fine Arts Museum?",
+  "generated_answer": "Keelung",
+  "reference_answer": "Keelung",
+  "error_type": "NONE"
+}

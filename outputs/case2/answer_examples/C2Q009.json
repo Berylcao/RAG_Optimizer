@@ -1,0 +1,7 @@
+{
+  "query_id": "C2Q009",
+  "query": "George Gershwin is an American Composer and Judith Weir is a composer from which country?",
+  "generated_answer": "Judith Weir is a composer from the United Kingdom.",
+  "reference_answer": "",
+  "error_type": "CITATION_ERROR"
+}

@@ -1,0 +1,17 @@
+# Local model registry for offline retrieval and reranking.
+models_base_path: "./models"
+embedding_models:
+  bge-small:
+    local_dir: "bge-small-en-v1.5"
+    repo_id: "BAAI/bge-small-en-v1.5"
+  e5-base:
+    local_dir: "e5-base-v2"
+    repo_id: "intfloat/e5-base-v2"
+
+reranker_models:
+  bge-reranker-base:
+    local_dir: "bge-reranker-base"
+    repo_id: "BAAI/bge-reranker-base"
+  "cross-encoder/ms-marco-MiniLM-L-6-v2":
+    local_dir: "ms-marco-MiniLM-L-6-v2"
+    repo_id: "cross-encoder/ms-marco-MiniLM-L-6-v2"

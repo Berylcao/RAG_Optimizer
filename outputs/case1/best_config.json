@@ -1,0 +1,25 @@
+{
+  "chunking": {
+    "size": 512,
+    "overlap": 64,
+    "strategy": "token"
+  },
+  "indexing": {
+    "retriever": "hybrid",
+    "embedding_model": "e5-base",
+    "metadata_enrichment": false
+  },
+  "reranking": {
+    "enabled": true,
+    "model": "bge-reranker-base"
+  },
+  "query_refinement": {
+    "rewrite": true,
+    "decompose": true
+  },
+  "generation": {
+    "llm": "gpt-class",
+    "temperature": 0.0,
+    "answer_style": "concise"
+  }
+}

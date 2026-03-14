@@ -1,0 +1,22 @@
+{
+  "query_id": "C1Q005",
+  "retrieved_doc_ids": [
+    "D05921",
+    "D19420",
+    "D12040",
+    "D32674",
+    "D60636"
+  ],
+  "contexts": [
+    "Billy Howle (born November 9, 1989) is an actor, known for his work as James Warwick on the E4 television series, \"Glue\". He has since co-starred in the film, \"The Sense of an Ending\" (as the younger version of Jim Broadbent's lead character) and the miniseries \"The Witness for the Prosecution\" in the pivotal role of defendant, Leonard Vole. He also appeared in \"Dunkirk\". Howle will next be seen opposite Saoirse Ronan in the drama, \"On Chesil Beach\", in the adaptation of Anton Chekhov's iconic play, \"The Seagull\", and in Netflix film \"Outlaw King\".",
+    "On Chesil Beach is an upcoming British drama film directed by Dominic Cooke in his motion picture directorial debut. Ian McEwan self-adapted his own 2007 Booker Prize-nominated novella of the same name. It stars Saoirse Ronan and Billy Howle. The film had its world premiere in the Special Presentations section at the Toronto International Film Festival on September 7, 2017.",
+    "Dark River is an upcoming British drama film. Written and directed by Clio Barnard, it stars Ruth Wilson, Mark Stanley, and Sean Bean. It screened in the Platform section at the 2017 Toronto International Film Festival.",
+    "Zoo is an upcoming British historical war drama film directed and written by Colin McIvor. The film stars Art Parkinson, Penelope Wilton, Toby Jones, Ian O'Reilly, Ian McElhinney, Amy Huberman, and Damian O'Hare.",
+    "Once Upon a Time in London is an upcoming British crime film directed by Simon Rumley and written by Will Gilbey, Rumley, and Terry Stone. The film is about the notorious gangsters Billy Hill and Jack Comer. The film stars Leo Gregory, Terry Stone, Holly Earl, Dominic Keating, and Geoff Bell."
+  ],
+  "metrics": {
+    "context_recall": 1.0,
+    "answer_similarity": 1.0000000715255737,
+    "faithfulness": 1.0
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "query_id": "C1Q010",
+  "retrieved_doc_ids": [
+    "D64210",
+    "D76705",
+    "D28960",
+    "D76113",
+    "D27907"
+  ],
+  "contexts": [
+    "\"Tunak Tunak Tun\" (Punjabi: ਤੁਣਕ ਤੁਣਕ ਤੁਣ ) or simply \"Tunak\", is a bhangra/pop love song by Indian artist Daler Mehndi released in 1998. At the time, critics complained that Mehndi's music was only popular due to his videos that featured beautiful women dancing. Mehndi's response was to create a video that featured only himself. The music video was the first made in India using greenscreen technology, which allowed the singer to superimpose his image over various computer-generated backgrounds such as desert and mountain landscapes and St. Basil's Cathedral.",
+    "Daler Singh, known by his stage name, \"Daler Mehndi\" (born 18 August 1967) is an Indian recording artist, musician, songwriter, author, record producer, performer and environmentalist. He is credited with making Bhangra popular worldwide, and setting up a parallel non-film music industry to the pre-Daler era’s then existent Bollywood music. He is best known for his energetic dance songs, his distinctive voice, turban and long flowing robes.",
+    "Kim Jong-kook (Hangul: 김종국; Hanja: 金鐘國; born 25 April 1976) is a South Korean singer, actor and TV personality. He was initially part of the Korean duo Turbo, but later pursued a successful career as a solo artist. Apart from being a triple Daesang award-winning singer, he is also an active participant in variety shows such as \"X-man\" and \"Family Outing\" (since episode 19). He gained worldwide popularity as part of the SBS variety show \"Running Man\".",
+    "Anmol Gagan Maan (Gagandeep Kaur Maan) is a Punjabi Singer known for her Punjabi Folk, Bhangra songs.She has done her graduation from M.C.M. D.A.V. College Chandigarh, with Music & Psychology as major. In 2004 she has won a World Folk Dance(Jhumar, Bhangra, Giddha) Competition in England and Russia. In year 2013, she was crowned as Miss Mohali Punjaban at Miss World Punjaban. She has over half a million fan on her Facebook fan page. She was even nominated for her debut song Sohni in 2014. Punjabi Music Best Debut vocalist (Female) Award, Punjabi Music Best folk oriented Vocalist Award for Sohni in 2014, Shoukeen Jatt in 2015 and Punjabi Music Best pop Vocalist (Female) Award for Kala Sher in 2016, Anmol Gagan Maan and her father launched a band with label named punjabo on April 14 2017 along with 11 female members of band",
+    "Allan P. Grigg, better known by his stage name Kool Kojak and stylized as \"KoOoLkOjAk\", is an American musician, songwriter, record producer, film director, and artist notable for co-writing and co-producing Flo Rida's #1 Billboard hit single \"Right Round\", Nicki Minaj's hit single \"Va Va Voom\" , and Ke$ha's top 10 single \"Blow\". Kool Kojak has written and produced for artists such as Sean Paul, Yelle, Waka Flocka Flame, Travis Barker, Dr. Seuss's The Lorax, Britney Spears, Jesse and Joy, Andy Milonakis, Icona Pop, N.A.S.A., Dirt Nasty, Lordz of Brooklyn, Ursula 1000, and Warren G. Kool Kojak was a featured producer on the Simon Cowell TV program X Factor and has appeared as himself on the Nickelodeon show \"Victorious\". He has won two ASCAP Pop Awards and one ASCAP Urban Award, a WormTown Sound Award, and has been awarded the Key to the City of Worcester, Massachusetts."
+  ],
+  "metrics": {
+    "context_recall": 1.0,
+    "answer_similarity": 0.5694882869720459,
+    "faithfulness": 1.0
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "query_id": "C2Q005",
+  "retrieved_doc_ids": [
+    "D24488",
+    "D11980",
+    "D67336",
+    "D88857",
+    "D49786"
+  ],
+  "contexts": [
+    "Berber languages hotpotqa_wikipedia. The Berber languages, also known as Berber or the Amazigh languages (Berber name: \"Tamaziɣt\", \"Tamazight\"; Neo-Tifinagh: ⵜⴰⵎⴰⵣⵉⵖⵜ, Tuareg Tifinagh: ⵜⴰⵎⴰⵣⵉⵗⵜ, ⵝⴰⵎⴰⵣⵉⵗⵝ , ] , ] ), are a family of similar and closely related languages and dialects spoken by the Berbers indigenous to North Africa. The Berber languages constitute a branch of the Afroasiatic family. They were traditionally written with the ancient Libyco-Berber script, which now exists in the form of Tifinagh.",
+    "Tugurt language hotpotqa_wikipedia. The Tugurt language, also known as Oued Righ Berber and Temacine Tamazight, is a Zenati Berber variety spoken in some of the oases of the northeastern Oued Righ region around Touggourt in Algeria. s of 1893 , its main speech area was in Temacine, Blidet-Amor, Meggarine and Ghomra. It is closely related to the nearby Tumzabt (Mozabite) and Teggargrent (Ouargli) languages.",
+    "Berber orthography hotpotqa_wikipedia. Berber orthography is the writing system(s) used to transcribe the Berber languages. In antiquity, the Libyco-Berber script (Tifinagh) was utilized to write Berber. Early uses of the script have been found on rock art and in various sepulchres. Following the spread of Islam, some Berber scholars also utilized the Arabic script. There are now three writing systems in use for Berber languages: Tifinagh (Libyco-Berber), the Arabic script, and the Berber Latin alphabet. Different groups in North Africa have different preferences of writing system, often motivated by ideology and politics.",
+    "Mazanderani language hotpotqa_wikipedia. Mazanderani (مازندرانی), also Tabari (طبری) or Geleki (گلکی) is an Iranian language of the Northwestern branch, spoken mainly in Iran's Mazandaran, Tehran, Alborz, Semnan and Golestan provinces. As a member of the Northwestern branch (the northern branch of Western Iranian), etymologically speaking it is rather closely related to Gilaki, and more distantly related to Persian, which belongs to the Southwestern branch. Mazandarani is closely related to Gilaki and the two languages have similar vocabularies. The Gilaki and Mazandarani languages (but not other Iranian languages) share certain typological features with Caucasian languages (specifically South Caucasian languages), reflecting the history, ethnic identity, and close relatedness to the Caucasus region and Caucasian peoples of the Mazandarani people and Gilaki people.",
+    "Umbrian language hotpotqa_wikipedia. Umbrian is an extinct Italic language formerly spoken by the Umbri in the ancient Italian region of Umbria. Within the Italic languages it is closely related to the Oscan group and is therefore associated with it in the group of Osco-Umbrian languages. Since that classification was first formulated a number of other languages in ancient Italy were discovered to be more closely related to Umbrian. Therefore, a group was devised to contain them, the Umbrian languages."
+  ],
+  "metrics": {
+    "retrieval_coverage_proxy": 1.0,
+    "groundedness": 0.5,
+    "citation_quality": 0.3
+  }
+}

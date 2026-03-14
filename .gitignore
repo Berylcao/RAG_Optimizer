@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+dist/
+build/
+
+# Virtual environment
+.venv/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# Local models (download via `python -m src.utils.download_models`)
+models/
+
+# Runtime caches
+cache/
+
+# OS artifacts
+.DS_Store
+Thumbs.db
+
+
+
+

@@ -1,0 +1,22 @@
+{
+  "query_id": "C2Q008",
+  "retrieved_doc_ids": [
+    "D76224",
+    "D23639",
+    "D25553",
+    "D05953",
+    "D54091"
+  ],
+  "contexts": [
+    "Johnny English (film series) hotpotqa_wikipedia. Johnny English is a British series of action comedy film parodying the James Bond secret agent genre. It features Rowan Atkinson as the titular character, based on the screenplay was written by Neal Purvis and Robert Wade. The series included 3 instalments: \"Johnny English\" (2003), \"Johnny English Reborn\" (2011), and the upcoming \"Johnny English 3\" which is in pre-production. The series also infused with comedy similar to Atkinson's Mr. Bean character and grossed $320 worldwide.",
+    "Johnny English Reborn hotpotqa_wikipedia. Johnny English Reborn is a 2011 British action comedy film parodying the James Bond secret agent genre. The film is the sequel to \"Johnny English\" (2003), and stars Rowan Atkinson reprising his role as the title character and directed by Oliver Parker. The film is the second installment of the \"Johnny English film series\".",
+    "Mr. Bean's Holiday hotpotqa_wikipedia. Mr. Bean's Holiday is a 2007 comedy film, directed by Steve Bendelack, music composed by Howard Goodall, produced by Peter Bennett-Jones, Tim Bevan and Eric Fellner, written by Hamish McColl and Robin Driscoll and starring Rowan Atkinson, Maxim Baldry, Emma de Caunes and Willem Dafoe. It is the second film based on the television series \"Mr. Bean\", following the 1997 \"Bean\".",
+    "Johnny English hotpotqa_wikipedia. Johnny English is a 2003 British-American spy comedy film parodying the James Bond secret agent genre infused with comedy similar to Atkinson's Mr. Bean character. The film stars Rowan Atkinson, Natalie Imbruglia, Ben Miller and John Malkovich. The screenplay was written by Bond writers Neal Purvis and Robert Wade, with William Davies, and the film was directed by Peter Howitt. It is the first installment of the \"Johnny English film series\".",
+    "The End of Agent W4C hotpotqa_wikipedia. Konec agenta W4C prostřednictvím psa pana Foustky (English: The End of Agent W4C ) is a 1967 Czechoslovak film parodying the James Bond secret agent genre. Directed by Václav Vorlíček based on the story by Oldřich Daněk. Runtime 87 min. Mono. Produced by Filmové Studio Barrandov and distributed by Central Office of Film Distribution, Prague."
+  ],
+  "metrics": {
+    "retrieval_coverage_proxy": 1.0,
+    "groundedness": 1.0,
+    "citation_quality": 1.0
+  }
+}

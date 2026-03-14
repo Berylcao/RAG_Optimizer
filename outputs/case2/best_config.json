@@ -1,0 +1,25 @@
+{
+  "chunking": {
+    "size": 128,
+    "overlap": 32,
+    "strategy": "semantic"
+  },
+  "indexing": {
+    "retriever": "hybrid",
+    "embedding_model": "e5-base",
+    "metadata_enrichment": true
+  },
+  "reranking": {
+    "enabled": true,
+    "model": "bge-reranker-base"
+  },
+  "query_refinement": {
+    "rewrite": false,
+    "decompose": false
+  },
+  "generation": {
+    "llm": "student-direct",
+    "temperature": 0.2,
+    "answer_style": "citation_first"
+  }
+}

@@ -1,0 +1,64 @@
+# Assignment-aligned search space.
+chunking:
+  size:
+    type: categorical
+    choices: [128, 256, 512]
+    description: "Chunk size in tokens."
+  overlap:
+    type: categorical
+    choices: [0, 32, 64]
+    description: "Overlap between chunks."
+  strategy:
+    type: categorical
+    choices: ["token", "sentence", "semantic"]
+    description: "Chunking strategy."
+
+indexing:
+  retriever:
+    type: categorical
+    choices: ["bm25", "dense", "hybrid"]
+    description: "Retriever type."
+  embedding_model:
+    type: categorical
+    choices: ["bge-small", "e5-base"]
+    description: "Embedding model label."
+  metadata_enrichment:
+    type: categorical
+    choices: [false, true]
+    description: "Whether to enrich chunks with metadata."
+
+reranking:
+  enabled:
+    type: categorical
+    choices: [false, true]
+    description: "Enable reranking."
+  model:
+    type: categorical
+    choices: ["bge-reranker-base", "cross-encoder/ms-marco-MiniLM-L-6-v2"]
+    depends_on:
+      reranking.enabled: true
+    description: "Reranker model label."
+
+query_refinement:
+  rewrite:
+    type: categorical
+    choices: [false, true]
+    description: "Enable query rewriting."
+  decompose:
+    type: categorical
+    choices: [false, true]
+    description: "Enable query decomposition."
+
+generation:
+  llm:
+    type: categorical
+    choices: ["gpt-class", "student-direct"]
+    description: "Generation backend label. `gpt-class` uses DSPy with the TEACHER/STUDENT models from .env. `student-direct` calls the STUDENT_* model from .env directly via OpenAI SDK."
+  temperature:
+    type: categorical
+    choices: [0.0, 0.2]
+    description: "Generation temperature."
+  answer_style:
+    type: categorical
+    choices: ["concise", "citation_first"]
+    description: "Output answer style."

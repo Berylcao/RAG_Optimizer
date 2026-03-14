@@ -1,0 +1,7 @@
+{
+  "query_id": "C2Q013",
+  "query": "The creator of the Lisa Simpson character was born in what year?",
+  "generated_answer": "The creator of Lisa Simpson, Matt Groening, was born in 1954.",
+  "reference_answer": "",
+  "error_type": "NONE"
+}

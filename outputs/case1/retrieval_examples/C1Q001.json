@@ -1,0 +1,22 @@
+{
+  "query_id": "C1Q001",
+  "retrieved_doc_ids": [
+    "D99392",
+    "D62289",
+    "D83976",
+    "D25423",
+    "D77673"
+  ],
+  "contexts": [
+    "Vice-Admiral Iqbal Fazl Quadir (Urdu:اقبال فضل قادر) , is a retired three-star rank admiral in the Pakistan Navy, former diplomat, and a defence analyst. He is renown for his participation in second war with India when he was part of the flotilla that attacked the radar station in Dwarka, India.",
+    "Radar Station is a 1953 Canadian short documentary film produced by the National Film Board of Canada (NFB) as part of the \"On The Spot\" series made specifically for television. The documentary involved an account of a visit to a radar station while it is involved in a simulated air attack, and is based on first-person interviews of the staff at the radar station.",
+    "Sevastopol radar station was a Soviet radar station providing early warning of ballistic missile attack. It is located between the Cape of Chersones and the auxiliary airfield \"Chersones\" (Marine Aviation of the Black Sea Fleet) in Sevastopol and was part of the Soviet missile attack warning system. Information from this station could be used for a launch on warning nuclear missile attack or to engage the A-135 anti-ballistic missile system.",
+    "The B-71 radar station also known as Klamath River Radar Station, Crescent City Radar Station, Trinidad Radar Station was an Army Air Force early warning station in World War II. It is a rare survivor of a World War II early-warning radar station. It was constructed as a disguise to look like a farmhouse. To guard against potential invasions, the U.S. Army built \"farm\" buildings; the cinderblock structures, complete with shingled roofs, and fake windows and dormers, housed an early-warning radar station. From the air, the sea, and even the road, these buildings appeared to be part of a working farm. In fact, they housed a diesel generator, electronic equipment, and two 50-caliber anti-aircraft guns. This is one of 65 that were built all along the western coast of America during World War II. It is located on Coastal Dr. just south of the mouth of Klamath River.",
+    "Mukachevo radar station was a Soviet radar station providing early warning of ballistic missile attack. It was located in Shipka in the far south west of Ukraine and was part of the Soviet, and then Russian missile attack warning system. Information from this station could be used for a launch on warning nuclear missile attack or to engage the A-135 anti-ballistic missile system."
+  ],
+  "metrics": {
+    "context_recall": 0.75,
+    "answer_similarity": 0.44255547523498534,
+    "faithfulness": 0.6521739130434783
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "query_id": "C1Q008",
+  "retrieved_doc_ids": [
+    "D37343",
+    "D32213",
+    "D94020",
+    "D63257",
+    "D63604"
+  ],
+  "contexts": [
+    "Tommy's Honour is a 2016 historical drama film depicting the lives and careers of, and the complex relationship between, the pioneering Scottish golfing champions Old Tom Morris and his son Young Tom Morris. The film is directed by Jason Connery, and the father and son are portrayed by Peter Mullan and Jack Lowden. The film won Best Feature Film at the 2016 British Academy Scotland Awards.",
+    "Princess Yelena \"Hélène\" Vasilyevna Kuragina (Russian: Елена \"Эле́н\" Васи́льевна Кура́гина ) is a fictional character in Leo Tolstoy's novel \"War and Peace\" and its various cinematic adaptations. She is played by Anita Ekberg in the 1956 film, by Amber Gray in \"Natasha, Pierre & The Great Comet of 1812\", and by Tuppence Middleton in the 2016 BBC miniseries.",
+    "Jack Andrew Lowden (born 2 June 1990) is a Scottish stage, television, and film actor. Following a highly successful and award-winning four-year stage career, his first major international onscreen success was in the 2016 BBC miniseries \"War & Peace\", which led to starring roles in feature films.",
+    "Kevin McKidd (born 9 August 1973) is a Scottish-American television and film actor, director, and occasional singer. Before playing the role of Owen Hunt in \"Grey's Anatomy\", for which he is perhaps most widely known, McKidd starred as Dan Vasser in the NBC Series \"Journeyman\" (2007), Tommy in Danny Boyle's \"Trainspotting\" (1996), Count Vronsky in the BBC miniseries \"Anna Karenina\" (2000), and Lucius Vorenus in the historical drama series \"Rome\" (2005–2007). He also provides the voice of John \"Soap\" MacTavish in the video games \"\" and \"\". He also played Poseidon in the film \"\".",
+    "The Day of the Triffids is a BBC miniseries adaptation of John Wyndham's novel of the same name. The novel had previously been adapted in 1962 as a theatrical film and by the BBC in a 1981 series."
+  ],
+  "metrics": {
+    "context_recall": 1.0,
+    "answer_similarity": 0.43622628450393675,
+    "faithfulness": 1.0
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "query_id": "C2Q010",
+  "retrieved_doc_ids": [
+    "D18320",
+    "D65653",
+    "D73458",
+    "D31415",
+    "D10298"
+  ],
+  "contexts": [
+    "Juan Manuel Márquez hotpotqa_wikipedia. Juan Manuel Márquez Méndez (born August 23, 1973) is a Mexican former professional boxer who competed from 1993 to 2014. He is the third Mexican boxer (after Érik Morales and Jorge Arce) to become a four-weight world champion, having formerly held nine world championships including the WBA (Super), IBF, and WBO featherweight titles between 2003 and 2007; the WBC super featherweight title from 2007 to 2008; the WBA (Super), WBO, \"Ring\" magazine, and lineal lightweight titles between 2008 and 2012; and the WBO junior welterweight title from 2012 to 2013.",
+    "Rafael Márquez (boxer) hotpotqa_wikipedia. Rafael Márquez Méndez (born 25 March 1975) is a Mexican former professional boxer who competed from 1995 to 2013. He is a two-time world champion in two weight classes, having held the IBF bantamweight title from 2003 to 2007; and the WBC, \"Ring\" magazine, and lineal super bantamweight titles in 2007. He also held the IBO bantamweight title from 2005 to 2007, and challenged once for WBO featherweight title in 2011. Márquez was known for his formidable knockout power and relentless pressure fighting style. His older brother Juan Manuel Márquez is also a professional boxer and multiple-time world champion.",
+    "Juan Manuel Márquez vs. Joel Casamayor hotpotqa_wikipedia. Juan Manuel Márquez vs. Joel Casamayor was a boxing lightweight superfight. In 2008 reigning lightweight Champion \"El Cepillo\" Casamayor met former two-division World Champion Juan Manuel \"Dinamita\" Márquez at the MGM Grand Garden Arena in Las Vegas for a 12-round championship bout. Casamayor was the champion of boxing's lightweight division, recognized as the title holder by Ring Magazine, even though he didn't own any of the belts from boxing's four major sanctioning bodies.",
+    "Juan Manuel Márquez vs. Juan Díaz hotpotqa_wikipedia. Juan Manuel Márquez vs. Juan Diaz was a boxing lightweight title superfight, for the vacant WBO/WBA lightweight championship, and Marquez's \"The Ring\" lightweight title. The bout was held on February 28, 2009, at the Toyota Center in Houston, Texas, United States. Marquez won the fight via technical knockout in the ninth round.",
+    "Manny Pacquiao vs. Juan Manuel Márquez IV hotpotqa_wikipedia. Manny Pacquiao vs. Juan Manuel Márquez IV, billed as Fight of the Decade, was a professional boxing match. It was also billed unofficially as deciding the World Boxing Organization's \"Champion of the Decade\". This was the fourth and final meeting between Manny Pacquiao and Juan Manuel Marquez. The bout was held on December 8, 2012, at the MGM Grand in Las Vegas, Nevada and drew 1.15 million pay-per-view buys."
+  ],
+  "metrics": {
+    "retrieval_coverage_proxy": 1.0,
+    "groundedness": 0.5,
+    "citation_quality": 0.8
+  }
+}

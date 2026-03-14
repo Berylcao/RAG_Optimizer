@@ -1,0 +1,22 @@
+{
+  "query_id": "C2Q012",
+  "retrieved_doc_ids": [
+    "D69199",
+    "D93910",
+    "D10904",
+    "D93379",
+    "D62659"
+  ],
+  "contexts": [
+    "Ruddles Brewery hotpotqa_wikipedia. Ruddles Brewery (G. Ruddle & Co) was an English brewery. The brand is now owned by Greene King who still brew beers under the Ruddles name in Suffolk, although the current recipes are not those used at the original brewery.",
+    "Greene King hotpotqa_wikipedia. Greene King is the UK's largest pub retailer and brewer. It is based in Bury St Edmunds, Suffolk, England. The company owns pubs, restaurants and hotels. It is listed on the London Stock Exchange and is a constituent of the FTSE 250 Index.",
+    "Castle Rock Brewery hotpotqa_wikipedia. Castle Rock Brewery is a brewery and pub group based in Nottingham, Nottinghamshire. It was originally set up as a joint venture with Bramcote Brewery. Bramcote Brewery was wound up and a new company was set up, 50% owned by Tynemill and 50% owned by the previous owners of Bramcote Brewery, on a new site next to Tynemill’s pub, The Vat and Fiddle, located on Queensbridge road close to Nottingham railway station. The Vat and Fiddle became the ‘Brewery Tap’, serving over 10 real ales at any one time, several of which are Castle Rock's.",
+    "Mill Street Brewery hotpotqa_wikipedia. Mill Street Brewery is a brewery in Toronto, Canada that is a part of Anheuser–Busch InBev. During its first decade of operation, as an independent brewer, Mill St. won several awards including Golden Tap Awards for Best Toronto Microbrewery ('04-'08) and Best Toronto Beer (for Tankhouse Ale: '04-'07), and was named \"Canadian Brewery of the Year\" at the Canadian Brewing Awards in 2007, 2008, and 2009. It was purchased in 2015 by Canadian brewer Labatt Brewing Company, which in turn is owned by the global brewing giant Anheuser–Busch InBev.",
+    "Chef &amp; Brewer hotpotqa_wikipedia. Chef & Brewer is a chain of around 127 licensed traditional pub restaurants in the United Kingdom, owned by the Greene King subsidiary, the Spirit Pub Company. The concept is providing more up market pub food and those in the chain have been re-furbished."
+  ],
+  "metrics": {
+    "retrieval_coverage_proxy": 1.0,
+    "groundedness": 1.0,
+    "citation_quality": 1.0
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "query_id": "C1Q010",
+  "query": "\"Tunak\", is a bhangra/pop love song by an artist born in which year ?",
+  "generated_answer": "Daler Mehndi was born on August 18, 1967.",
+  "reference_answer": "1967",
+  "error_type": "NONE"
+}

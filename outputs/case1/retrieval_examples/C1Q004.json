@@ -1,0 +1,22 @@
+{
+  "query_id": "C1Q004",
+  "retrieved_doc_ids": [
+    "D77512",
+    "D52542",
+    "D64850",
+    "D47394",
+    "D56782"
+  ],
+  "contexts": [
+    "Wilmslow Show is held at Wilmslow High School, Wilmslow, Cheshire, England, as a one-day event on a Sunday – usually the second Sunday in July. Sections include Horticulture, Dogs, Classic Cars, etc.",
+    "Pownall Hall is a former country house in Wilmslow, Cheshire, England. It was remodelled in 1830 as \"a red sandstone Georgian house dressed up in the Tudor style\". In 1886 it was bought by the Manchester brewer Henry Boddington, who transformed it \"into a showcase for the most up-to-date work of the Arts and Crafts Movement\". The architect was William Ball of the Ball and Elce partnership of Manchester. Much of the decoration and furniture design was carried out by members of the Century Guild, an organisation founded in 1882 by A. H. Mackmurdo. In addition \"lots of pretty, small-scale bits of decoration\" were added to the façade. The house is recorded in the National Heritage List for England as a designated Grade II* listed building. As of 2011 the building is in use as a school.",
+    "Wilmslow High School is a mixed-sex 11–18 comprehensive secondary school in Wilmslow, Cheshire, and a designated Centre of Excellence. The school began in 1960 as a grammar school and gradually became a comprehensive school, becoming Wilmslow High School in 1991. Dr. James Pullé is the head teacher. The school is designated \"good\" by Ofsted. <ref name=\"11/13 Ofsted Report\">Ofsted report</ref>",
+    "Corn School is a festival and one of few street fairs still in existence, that takes place in downtown LaGrange, Indiana in the first week of October every year. Begun in 1906, it was originally started as a one-day festival for boys in the local corn growing classes to show off their products. They were to receive prizes for their corn, and a day was to be designated in their honor. <ref name=\"/Corn School\">Historic Corn School dates back to 1906 </ref> Notables such as the Governor of Indiana Frank Hanly and the State Secretary of Agriculture were speakers for the event for the first couple of years.",
+    "The Dungeness School is a historical schoolhouse building located at 657 Towne Road in Dungeness, Washington. The idea for the school was formed in 1892 by the settlers of the Dungeness area. On May 10, 1892 a meeting was held in which settlers created a bond for land and a two story school house. The school house opened on February 27, 1893. The school originally had 73 students from the ages of 5 to 20. The school had one teacher who lived on the second floor of the school. Classes were large and books and supplies not easy to get. School Board minutes of April 8, 1895, show a motion was passed to buy the school a bottle of ink."
+  ],
+  "metrics": {
+    "context_recall": 1.0,
+    "answer_similarity": 0.6770381914244759,
+    "faithfulness": 1.0
+  }
+}

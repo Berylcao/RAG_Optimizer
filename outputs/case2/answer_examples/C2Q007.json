@@ -1,0 +1,7 @@
+{
+  "query_id": "C2Q007",
+  "query": "Phillip Pullman's book set in a parallel universe featuring a character named Lyra Belacqua was put into audio in what year?",
+  "generated_answer": "2000",
+  "reference_answer": "",
+  "error_type": "GROUNDING_FAILURE"
+}

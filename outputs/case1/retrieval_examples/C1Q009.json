@@ -1,0 +1,22 @@
+{
+  "query_id": "C1Q009",
+  "retrieved_doc_ids": [
+    "D61406",
+    "D09739",
+    "D43534",
+    "D41735",
+    "D20639"
+  ],
+  "contexts": [
+    "Midnight Oil (also known informally as \"The Oils\" to fans) are an Australian rock band, who originally performed as Farm from 1972 with drummer Rob Hirst, bass guitarist Andrew James and keyboard player/lead guitarist Jim Moginie. While vocalist Peter Garrett was studying at Australian National University in Canberra, he answered an advertisement for a spot in Farm, and by 1975 the band was touring the east coast of Australia. By late 1976, Garrett moved to Sydney to complete his law degree, and Farm changed its name to Midnight Oil by drawing the name out of a hat.",
+    "Switchfoot is an American alternative rock band from San Diego, California. The band's members are Jon Foreman (lead vocals, guitar), Tim Foreman (bass guitar, backing vocals), Chad Butler (drums, percussion), Jerome Fontamillas (guitar, keyboards, backing vocals), and Drew Shirley (guitar, backing vocals).",
+    "Midnight Oil is the debut album by Australian hard rock band Midnight Oil which was recorded in 1977 and released in November 1978 on the band's independent Powderworks label. It reached the top 50 on the Australian Kent Music Report Albums Chart. The album was later distributed by CBS Records and issued as a CD. The LP has a blue cover, however, the CD has a black cover. Because of the blue cover, the former version is often referred to, by fans, as the \"blue album\" or \"the Blue Meanie\". The lead single, \"Run By Night\", became the band's first minor hit in Australia and appeared on the Kent Music Report Singles Chart Top 100. It also had a video clip.",
+    "20,000 Watt R.S.L. is a compilation album by Australian rock band Midnight Oil released in October 1997 on their own label Sprint Music. The word \"Collection\" appears on the front of the CD along the hinge in the same type face as the title and the name of the band and may have been intended as part of the album's title; however, it does not appear on the spine. The release has also been distributed inside a cardboard sleeve which adds \"Midnight Oil: The Hits\" to the album art, distinguishing it as a compilation album.",
+    "The Power & The Passion ... a tribute to Midnight Oil is a 2001 tribute album featuring thirteen mostly Australian bands and artists, covering songs by the prominent Australian rock band Midnight Oil."
+  ],
+  "metrics": {
+    "context_recall": 1.0,
+    "answer_similarity": 0.6864599084854126,
+    "faithfulness": 0.875
+  }
+}

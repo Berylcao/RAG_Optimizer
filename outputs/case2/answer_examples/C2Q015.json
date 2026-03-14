@@ -1,0 +1,7 @@
+{
+  "query_id": "C2Q015",
+  "query": "What occupation was shared by David Yates and Pietro Germi?",
+  "generated_answer": "David Yates and Pietro Germi shared the occupation of acting.",
+  "reference_answer": "",
+  "error_type": "GROUNDING_FAILURE"
+}

@@ -1,0 +1,22 @@
+{
+  "query_id": "C1Q003",
+  "retrieved_doc_ids": [
+    "D55451",
+    "D88034",
+    "D70690",
+    "D37464",
+    "D34760"
+  ],
+  "contexts": [
+    "Art Laboe (born Arthur Egnoian on August 7, 1925) is an Armenian American disc jockey, songwriter, record producer, and radio station owner, generally credited with coining the term \"Oldies But Goodies\".",
+    "Scout Tufankjian is an Armenian-American photojournalist and author based in Brooklyn, New York. She is well known for her photos of American President Barack Obama during his campaign leading up to his presidency. She is also known for her photojournalism work on the Armenian diaspora.",
+    "Chinese Australians () are Australian citizens of Chinese ancestry. Chinese Australians are one of the largest groups of Overseas Chinese people, forming the largest Overseas Chinese community in Oceania. Per capita, Australia has more people of Chinese ancestry than any country outside of Asia. Many Chinese Australians are immigrants from Mainland China, Hong Kong, Macau, Taiwan, and other countries such as Indonesia, Malaysia, Singapore and the Philippines, while many are descendants of such immigrants. Chinese Australians are also a subgroup of Asian Australians and East Asian Australians and represent the single largest minority ethnicity in the country. As a whole, Australian residents identifying themselves as having Chinese ancestry made up 5.6% of those nominating their ancestry at the 2016 census and numbered 1,213,903.",
+    "KOKO-FM is a classic hits radio station broadcasting from Kerman, California, for the Fresno area with studio and office located in Los Angeles, California. KOKO 94 is the home for the Art Laboe Connection, and The Art Laboe Sunday Night Special. Laboe, by the way, is the station's owner. Its transmitter is in Kerman.",
+    "The Interamerican Scout Jamboree is the biggest event of the Interamerican Scout Region. It is held every four years in a different country of the region. The host country is elected during the Interamerican Scout Conference. Ecuador was announced as the host of the 15th Interamerican Scout Jamboree at the XXV Interamerican Scout Conference in Buenos Aires, Argentina, on 21 September 2013."
+  ],
+  "metrics": {
+    "context_recall": 1.0,
+    "answer_similarity": 0.4895656585693359,
+    "faithfulness": 0.6666666666666666
+  }
+}

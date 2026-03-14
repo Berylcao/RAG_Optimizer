@@ -1,0 +1,22 @@
+case1:
+  weights:
+    context_recall: 0.45
+    answer_similarity: 0.35
+    faithfulness: 0.20
+
+case2:
+  judge_style: true
+  weights:
+    retrieval_coverage_proxy: 0.45
+    groundedness: 0.35
+    citation_quality: 0.20
+
+global:
+  top_k: 5
+  random_seed: 42
+  holdout_fraction: 0.4
+  formal_mode:
+    strict_remote_fallbacks: true
+  optimization:
+    direction: "maximize"
+    failure_score: 0.0

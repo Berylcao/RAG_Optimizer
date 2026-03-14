@@ -1,0 +1,7 @@
+{
+  "query_id": "C1Q004",
+  "query": "The school in which the Wilmslow Show is held is designated as what?",
+  "generated_answer": "Wilmslow High School is designated as a \"Centre of Excellence\" by Ofsted.",
+  "reference_answer": "Centre of Excellence",
+  "error_type": "NONE"
+}

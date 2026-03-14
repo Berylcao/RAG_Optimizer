@@ -1,0 +1,22 @@
+{
+  "query_id": "C2Q004",
+  "retrieved_doc_ids": [
+    "D82629",
+    "D16978",
+    "D66110",
+    "D57555",
+    "D30206"
+  ],
+  "contexts": [
+    "Villa Unión, Sinaloa hotpotqa_wikipedia. Villa Unión is the second largest town in the municipality of Mazatlán, after the port of Mazatlán. It is located twenty kilometers south of the city on the banks of the Presidio River.",
+    "Mexican Federal Highway 40 hotpotqa_wikipedia. Mexican Federal Highway 40, also called the \"Carretera Interoceánica\" (Interoceanic Highway), is a road beginning at Reynosa, Tamaulipas, just west of the Port of Brownsville, Texas, and ending at Mexican Federal Highway 15 in Villa Unión, Sinaloa, near Mazatlán and the Pacific coast. It is called Interoceanic as, once finished, the cities of Matamoros, Tamaulipas, on the Gulf of Mexico and Mazatlán on the Pacific Ocean will be linked.",
+    "Mazatlán hotpotqa_wikipedia. Mazatlán (] ) is a city in the Mexican state of Sinaloa. The city serves as the municipal seat for the surrounding \"municipio\", known as the Mazatlán Municipality. It is located at on the Pacific coast, across from the southernmost tip of the Baja California Peninsula.",
+    "Villa Unión, Coahuila hotpotqa_wikipedia. Villa Unión is a city and seat of the municipality of Villa Unión, in the north-eastern Mexican state of Coahuila.",
+    "Operation Sinaloa hotpotqa_wikipedia. Operation Sinaloa or Operation Culiacan - Navolato (Spanish: Operacion Sinaloa/Operacion Conjunto Sinaloa) is an ongoing Anti-drug trafficking operation in the Mexican state of Sinaloa by the Federal Police and the Mexican Armed Forces. Its main objective is to cripple all cartel organizations such as the Sinaloa Cartel, Beltrán-Leyva Cartel and Los Zetas that operate in that state. The Military was deployed in response to the murder of Mexico's Federal Police commissioner Édgar Eusebio Millán Gómez."
+  ],
+  "metrics": {
+    "retrieval_coverage_proxy": 1.0,
+    "groundedness": 1.0,
+    "citation_quality": 1.0
+  }
+}

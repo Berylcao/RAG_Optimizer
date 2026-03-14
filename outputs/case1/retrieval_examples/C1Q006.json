@@ -1,0 +1,22 @@
+{
+  "query_id": "C1Q006",
+  "retrieved_doc_ids": [
+    "D27907",
+    "D72720",
+    "D82033",
+    "D64503",
+    "D85044"
+  ],
+  "contexts": [
+    "Allan P. Grigg, better known by his stage name Kool Kojak and stylized as \"KoOoLkOjAk\", is an American musician, songwriter, record producer, film director, and artist notable for co-writing and co-producing Flo Rida's #1 Billboard hit single \"Right Round\", Nicki Minaj's hit single \"Va Va Voom\" , and Ke$ha's top 10 single \"Blow\". Kool Kojak has written and produced for artists such as Sean Paul, Yelle, Waka Flocka Flame, Travis Barker, Dr. Seuss's The Lorax, Britney Spears, Jesse and Joy, Andy Milonakis, Icona Pop, N.A.S.A., Dirt Nasty, Lordz of Brooklyn, Ursula 1000, and Warren G. Kool Kojak was a featured producer on the Simon Cowell TV program X Factor and has appeared as himself on the Nickelodeon show \"Victorious\". He has won two ASCAP Pop Awards and one ASCAP Urban Award, a WormTown Sound Award, and has been awarded the Key to the City of Worcester, Massachusetts.",
+    "The Lorax (also known as Dr. Seuss' The Lorax) is a 2012 American 3D computer-animated musical fantasy–comedy film produced by Illumination Entertainment and based on Dr. Seuss's children's book of the same name. The film was released by Universal Pictures on March 2, 2012, on the 108th birthday of Dr. Seuss. The second film adaptation of the book (following the 1972 animated television special), the film builds on the book by expanding the story of Ted, the previously unnamed boy who visits the Once-ler. The cast includes Danny DeVito as the Lorax, Ed Helms as the Once-ler, and Zac Efron as Ted. New characters introduced in the film are Audrey (voiced by Taylor Swift), Aloysius O'Hare (Rob Riggle), Mrs. Wiggins, Ted's mother (Jenny Slate), and Grammy Norma (Betty White).",
+    "Brian R. Etting is an American producer, director, and screenwriter known for producing \"Broken\", \"Funny or Die\", \"A Good Old Fashioned Orgy\", and Relative Strangers starring Danny DeVito. He also executive produced \"Drunk History: Douglass & Lincoln\" which won Best Short Film at the 2010 Sundance Film Festival. Etting also owns his own production company with Josh Etting called Garlin Pictures.",
+    "Curmudgeons is a 2016 American comedy short film directed, produced by, and starring Danny DeVito. It is written and co-produced by Joshua Conkel.",
+    "Matthew Abraham \"Matt\" Groening ( ; born February 15, 1954) is an American cartoonist, writer, producer, animator, and voice actor. He is the creator of the comic strip \"Life in Hell\" (1977–2012) and the television series \"The Simpsons\" (1989–present), \"Futurama\" (1999–2003, 2008–2013), and the upcoming \"Disenchantment\" (2018). \"The Simpsons\" has gone on to become the longest-running U.S. primetime-television series in history, as well as the longest-running animated series and sitcom."
+  ],
+  "metrics": {
+    "context_recall": 1.0,
+    "answer_similarity": 0.514981344166924,
+    "faithfulness": 0.875
+  }
+}

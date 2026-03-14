@@ -1,0 +1,7 @@
+{
+  "query_id": "C1Q012",
+  "query": "In which film did Emilio Estevez star in in the same year as Nightmares",
+  "generated_answer": "Emilio Estevez starred in \"The Way\" in 1986, the same year as \"Nightmares\".",
+  "reference_answer": "The Outsiders",
+  "error_type": "NONE"
+}

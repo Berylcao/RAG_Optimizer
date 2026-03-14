@@ -1,0 +1,7 @@
+{
+  "query_id": "C1Q015",
+  "query": "Has Stefan Edberg won more events than  Édouard Roger-Vasselin?",
+  "generated_answer": "Édouard Roger-Vasselin has not won any Grand Slam singles titles, so he has fewer events (in this case, 0) compared to Stefan Edberg's 6 Grand Slam singles titles. Therefore, Stefan Edberg has won more events than Édouard Roger-Vasselin.",
+  "reference_answer": "yes",
+  "error_type": "NONE"
+}

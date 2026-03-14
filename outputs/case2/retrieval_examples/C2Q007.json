@@ -1,0 +1,22 @@
+{
+  "query_id": "C2Q007",
+  "retrieved_doc_ids": [
+    "D12771",
+    "D49605",
+    "D01095",
+    "D54302",
+    "D49972"
+  ],
+  "contexts": [
+    "Northern Lights (novel) hotpotqa_wikipedia. Northern Lights (known as The Golden Compass in North America and some other countries) is a young-adult fantasy novel by Philip Pullman, published by Scholastic UK in 1995. Set in a parallel universe, it features the journey of Lyra Belacqua to the Arctic in search of her missing friend, Roger Parslow, and her imprisoned uncle, Lord Asriel, who has been conducting experiments with a mysterious substance known as \"Dust\".",
+    "Lyra Belacqua hotpotqa_wikipedia. Lyra Belacqua , also known as Lyra Silvertongue, is the heroine of Philip Pullman's \"His Dark Materials\" trilogy. Lyra is a young girl who inhabits a universe parallel to our own. Brought up in the cloistered world of Jordan College, Oxford, she finds herself embroiled in a cosmic war between Lord Asriel on the one side, and the first angel to come into being, called The Authority, and his Regent, called Metatron, on the other.",
+    "His Dark Materials hotpotqa_wikipedia. His Dark Materials is an epic trilogy of fantasy novels by Philip Pullman consisting of \"Northern Lights\" (1995, published as \"The Golden Compass\" in North America), \"The Subtle Knife\" (1997), and \"The Amber Spyglass\" (2000). It follows the coming of age of two children, Lyra Belacqua and Will Parry, as they wander through a series of parallel universes. The three novels have won a number of awards, most notably the 2001 Whitbread Book of the Year prize, won by \"The Amber Spyglass\". \"Northern Lights\" won the Carnegie Medal for children's fiction in the UK in 1995. The trilogy took third place in the BBC's Big Read poll in 2003.",
+    "The Book of Dust hotpotqa_wikipedia. The Book of Dust is a forthcoming trilogy of fantasy novels by Philip Pullman. It is a companion trilogy to the \"His Dark Materials\" trilogy. The first book is set 10 years before \"Northern Lights\" and centres on Lyra Belacqua, one of the protagonists of the original trilogy. Alethiometers, dæmons and the Magisterium also return, alongside new characters, including a new hero.",
+    "Lyra's Oxford hotpotqa_wikipedia. Lyra's Oxford is a short book by Philip Pullman depicting an episode involving the heroine of \"His Dark Materials\", Pullman's best-selling trilogy. \"Lyra's Oxford\" is set when Lyra Belacqua is 15, two years after the end of the trilogy."
+  ],
+  "metrics": {
+    "retrieval_coverage_proxy": 0.5,
+    "groundedness": 0.0,
+    "citation_quality": 0.0
+  }
+}

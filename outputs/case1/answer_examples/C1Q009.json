@@ -1,0 +1,7 @@
+{
+  "query_id": "C1Q009",
+  "query": "Which rock band chose its name by drawing it out of a hat, Switchfoot or Midnight Oil?",
+  "generated_answer": "Midnight Oil chose its name by drawing it out of a hat.",
+  "reference_answer": "Midnight Oil",
+  "error_type": "NONE"
+}

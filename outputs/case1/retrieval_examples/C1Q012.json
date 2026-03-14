@@ -1,0 +1,22 @@
+{
+  "query_id": "C1Q012",
+  "retrieved_doc_ids": [
+    "D12580",
+    "D64219",
+    "D82747",
+    "D30276",
+    "D55668"
+  ],
+  "contexts": [
+    "Nightmares is a 1983 American horror anthology film directed by Joseph Sargent, and starring Emilio Estevez, Lance Henriksen, Cristina Raines, Veronica Cartwright, and Richard Masur. The film is made up of four short films based on urban legends; the first concerns a woman who encounters a killer in the backseat of her car; the second concerns a video game-addicted teenager who is consumed by his game; the third focuses on a fallen priest who is stalked by a pickup truck from hell; and the last follows a suburban family battling a giant rat in their home.",
+    "Emilio Estevez ( ; born May 12, 1962) is an American actor, director, and writer. He started his career as an actor and is well known for being a member of the acting Brat Pack of the 1980s, starring in \"The Breakfast Club\", \"St. Elmo's Fire\", and also acting in the 1983 hit movie \"The Outsiders\". He is also known for \"Repo Man\", \"The Mighty Ducks\" and its sequels, \"Stakeout\", \"Maximum Overdrive\", \"Bobby\" (which he also wrote and directed), and his performances in Western films such as \"Young Guns\" and its sequel.",
+    "Wisdom is a 1986 American romantic crime film written and directed by its star Emilio Estevez in his filmmaking debut. The film also stars Demi Moore, along with Tom Skerritt and Veronica Cartwright (both of \"Alien\" fame) as Estevez's parents. The end credits song is \"Home Again\" by Oingo Boingo and the score by Danny Elfman.",
+    "The Way is a 2010 American drama film directed, produced and written by Emilio Estevez, starring his father Martin Sheen, Deborah Kara Unger, James Nesbitt, Yorick van Wageningen, and Renée Estevez.",
+    "Dollar for the Dead is a 1998 TNT western television film. Film directed and written by Gene Quintano and starring Emilio Estevez. It is the third western film which Estevez stars. Film also stars William Forsythe, Joaquim de Almeida, Jonathan Banks, Ed Lauter and Howie Long. Actor Jordi Mollà nominated for Fotogramas de Plata award."
+  ],
+  "metrics": {
+    "context_recall": 1.0,
+    "answer_similarity": 0.44204810857772825,
+    "faithfulness": 0.625
+  }
+}

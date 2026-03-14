@@ -1,0 +1,22 @@
+{
+  "query_id": "C2Q003",
+  "retrieved_doc_ids": [
+    "D33926",
+    "D13593",
+    "D88923",
+    "D39524",
+    "D56666"
+  ],
+  "contexts": [
+    "Vitor Belfort hotpotqa_wikipedia. Vitor Vieira Belfort (] ; born April 1, 1977) is a Brazilian mixed martial artist currently competing in the Middleweight division of the Ultimate Fighting Championship. He is the former UFC Light Heavyweight Champion, UFC 12 Heavyweight Tournament Champion, and the Cage Rage World Light Heavyweight Champion. As of June 16, 2017, he is the #11 contender in official UFC Middleweight rankings.",
+    "Sam Alvey hotpotqa_wikipedia. Samuel Alvey (born May 6, 1986) is an American mixed martial artist currently competing in the Middleweight division of the Ultimate Fighting Championship. A professional MMA competitor since 2008, Alvey has also formerly competed for Bellator, King of the Cage, the MFC, and was a contestant on . As of March 2017, Alvey is #14 in the official UFC Middleweight Rankings.",
+    "David Branch (fighter) hotpotqa_wikipedia. David Branch (born September 26, 1981) is an American mixed martial artist currently competing in the Middleweight division of the Ultimate Fighting Championship. A professional competitor since 2007, he has also formerly competed for the World Series of Fighting, Bellator, Shark Fights, and Titan FC. Branch was the inaugural World Series of Fighting Light Heavyweight and Middleweight Champion. He is currently ranked as the #9 Middleweight in the world according to Sherdog.",
+    "Rashad Evans hotpotqa_wikipedia. Rashad Anton Evans (born September 25, 1979) is an American mixed martial artist currently competing in the Middleweight division of the Ultimate Fighting Championship. A professional competitor since 2003, Evans was the Heavyweight winner of The Ultimate Fighter 2 and is also a former UFC Light Heavyweight Champion.",
+    "Kelvin Gastelum hotpotqa_wikipedia. Kelvin Gastelum (born October 24, 1991) is an American professional mixed martial artist who is currently signed to the Ultimate Fighting Championship (UFC). He was the winner of \"The Ultimate Fighter 17\". Gastelum is currently competing as a middleweight and is ranked #8 in the UFC official middleweight rankings."
+  ],
+  "metrics": {
+    "retrieval_coverage_proxy": 0.5,
+    "groundedness": 0.5,
+    "citation_quality": 0.5
+  }
+}

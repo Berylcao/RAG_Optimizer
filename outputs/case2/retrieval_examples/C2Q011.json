@@ -1,0 +1,22 @@
+{
+  "query_id": "C2Q011",
+  "retrieved_doc_ids": [
+    "D67530",
+    "D28960",
+    "D81824",
+    "D33020",
+    "D57543"
+  ],
+  "contexts": [
+    "Running Man Brothers hotpotqa_wikipedia. Running Man Brothers is a South Korean pop duo, which is named after the South Korean television show \"Running Man\". The group is composed of cast members Kim Jong-kook and Haha and was formed in 2014.",
+    "Kim Jong-kook (singer) hotpotqa_wikipedia. Kim Jong-kook (Hangul: 김종국; Hanja: 金鐘國; born 25 April 1976) is a South Korean singer, actor and TV personality. He was initially part of the Korean duo Turbo, but later pursued a successful career as a solo artist. Apart from being a triple Daesang award-winning singer, he is also an active participant in variety shows such as \"X-man\" and \"Family Outing\" (since episode 19). He gained worldwide popularity as part of the SBS variety show \"Running Man\".",
+    "Kim Jong-kook (baseball) hotpotqa_wikipedia. Kim Jong-kook (Hangul: 김종국, Hanja: 金鍾國; born September 14, 1973 in Gwangju, South Korea) is a South Korean second baseman for the Kia Tigers of the KBO League. He bats and throws right-handed.",
+    "Turbo (South Korean band) hotpotqa_wikipedia. Turbo (Korean: 터보 ) is a popular South Korean duo in the mid to late 1990s. The duo originally consisted of Kim Jong-kook and Kim Jung-nam. In early 1997, Kim Jung-nam left from the group and Kim Jong-kook later continued promotion with new member Mikey. They became one of the biggest stars in the Korean entertainment industry during their active time from 1995 to 2000 and sold millions of albums and records in Asia as a whole. In 2015, they made a comeback as a trio after 15 years with \"Again\". Title song `again´ led on top of the music charts.",
+    "List of Running Man episodes hotpotqa_wikipedia. Running Man (Korean: 런닝맨 ) is a South Korean variety show, part of SBS's \"Good Sunday\" lineup. This show is classified as a game-variety show, where the MCs and guests complete missions in a landmark to win a race. \"Running Man\" first aired on July 11, 2010."
+  ],
+  "metrics": {
+    "retrieval_coverage_proxy": 1.0,
+    "groundedness": 1.0,
+    "citation_quality": 1.0
+  }
+}

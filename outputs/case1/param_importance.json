@@ -1,0 +1,14 @@
+{
+  "indexing.retriever": 0.4339,
+  "generation.llm": 0.1571,
+  "chunking.size": 0.0948,
+  "generation.answer_style": 0.0654,
+  "chunking.overlap": 0.063,
+  "chunking.strategy": 0.0462,
+  "generation.temperature": 0.036,
+  "indexing.embedding_model": 0.035,
+  "query_refinement.decompose": 0.0332,
+  "reranking.enabled": 0.0311,
+  "query_refinement.rewrite": 0.0043,
+  "indexing.metadata_enrichment": 0.0
+}

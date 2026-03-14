@@ -1,0 +1,22 @@
+{
+  "query_id": "C2Q002",
+  "retrieved_doc_ids": [
+    "D28722",
+    "D89021",
+    "D03395",
+    "D47759",
+    "D47360"
+  ],
+  "contexts": [
+    "The Soul of Buddha hotpotqa_wikipedia. The Soul of Buddha is a 1918 American silent romance film directed by J. Gordon Edwards and starring Theda Bara, who also wrote the film's story. The film was produced by Fox Film Corporation and shot at the Fox Studio in Fort Lee, New Jersey.",
+    "Fort Lee, New Jersey hotpotqa_wikipedia. Fort Lee is a borough at the eastern border of Bergen County, New Jersey, United States, in the New York City Metropolitan Area, situated atop the Hudson Palisades. As of the 2010 United States Census, the borough's population was 35,345, reflecting a decline of 116 (−0.3%) from the 35,461 counted in the 2000 Census, which had in turn increased by 3,464 (+10.8%) from the 31,997 counted in the 1990 Census. The borough is the western terminus of the George Washington Bridge and is located across the Hudson River from the Manhattan borough of New York City. Named for the site of an early American Revolutionary War military encampment, it later became the birthplace of the American film industry.",
+    "Broadway Love hotpotqa_wikipedia. Broadway Love is a 1918 American silent romance film directed by Ida May Park and starring Lon Chaney. A print of the film survives in the George Eastman House Motion Picture Collection.",
+    "Out of a Clear Sky hotpotqa_wikipedia. Out of a Clear Sky is a lost 1918 American silent romance drama film starring Marguerite Clark and directed by Marshall Neilan. Based upon a novel by Maria Thompson Daviess, Famous Players-Lasky produced the film and Paramount Pictures distributed.",
+    "The Grain of Dust (1918 film) hotpotqa_wikipedia. The Grain of Dust is a lost 1918 American silent romance drama film directed by Harry Revier based on a novel by David Graham Phillips. The film starred Lillian Walker."
+  ],
+  "metrics": {
+    "retrieval_coverage_proxy": 1.0,
+    "groundedness": 1.0,
+    "citation_quality": 1.0
+  }
+}

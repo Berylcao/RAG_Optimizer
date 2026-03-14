@@ -1,0 +1,7 @@
+{
+  "query_id": "C1Q006",
+  "query": "What animated movie, starring Danny Devito, featured music written and produced by Kool Kojak?",
+  "generated_answer": "The animated movie starring Danny Devito that featured music written and produced by Kool Kojak was \"Dr. Seuss' The Lorax\" (2012).",
+  "reference_answer": "The Lorax",
+  "error_type": "NONE"
+}

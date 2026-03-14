@@ -1,0 +1,20 @@
+{
+  "query_id": "C2Q001",
+  "retrieved_doc_ids": [
+    "D89774",
+    "D18981",
+    "D15160"
+  ],
+  "contexts": [
+    "The inventor of the wristbands, Jason Regler, stated that he had the idea for the flashing wristbands while at a Coldplay concert, during the song \"Fix You\".",
+    "Ask (The Smiths song) hotpotqa_wikipedia. \"Ask\" is a song recorded by the English rock band the Smiths. It was released as a single on 20 October 1986 through Rough Trade Records. Credited to vocalist Morrissey and guitarist Johnny Marr, \"Ask\" is an upbeat, positive pop song built around major chords. Its lyrics touch on shyness and encourages the listener to release their inhibitions. Its multiple guitar parts and complex production led to disagreements regarding its final mix. In addition, Craig Gannon, one-time rhythm guitarist for the group, has claimed he wrote and was denied credit for the song's chord structure.",
+    "Xyloband hotpotqa_wikipedia. Xylobands are wristbands that contain light-emitting diodes and radio frequency receivers. The lights inside the wristband can be controlled by a software program, which sends signals to the wristband, instructing it to light up or blink, for example. The RGB version has a white strap and can emit any colour on the spectrum. The single colour version is available in green, blue, yellow, red, pink and white. The first use of Xylobands on a large scale was on Coldplay's 2012 Mylo Xyloto tour. A Xyloband was given to each member of the audience, and as the concert played, the flashing of the bands was synchronized to the music.",
+    "The song is built around sampled instrumentals from \"Hermetico\" by the Israeli band Balkan Beat Box from their 2007 studio album \"Nu Med\". The main saxophone lick is based on characteristic Turkish traditional ornamentations, particularly rendering the Turkish wind instrument Zurna.",
+    "Talk Dirty (Jason Derulo song) hotpotqa_wikipedia. \"Talk Dirty\" is a song by American singer Jason Derulo, released as the second single from his third studio album, \"Tattoos\" (2013), in Europe and Oceania. Derulo's third studio album was retitled \"Talk Dirty\" for its US release, featuring an alternative track listing. It was released as the third single in the US on January 7, 2014. Additional vocals are provided by American rapper 2 Chainz, making it Derulo's first single to feature a guest performer, excluding the French version of \"Whatcha Say\". The artists co-wrote the song with Jason Evigan, Sean Douglas, Ori Kaplan, Tamir Muskat, Tomer Yosef, and Wallpaper frontman Ricky Reed; the latter is also the song's producer."
+  ],
+  "metrics": {
+    "retrieval_coverage_proxy": 0.5,
+    "groundedness": 0.2,
+    "citation_quality": 0.1
+  }
+}

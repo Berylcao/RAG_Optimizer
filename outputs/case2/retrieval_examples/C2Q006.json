@@ -1,0 +1,22 @@
+{
+  "query_id": "C2Q006",
+  "retrieved_doc_ids": [
+    "D69205",
+    "D64040",
+    "D76796",
+    "D55586",
+    "D35240"
+  ],
+  "contexts": [
+    "Charles Fraser-Smith hotpotqa_wikipedia. Charles Fraser-Smith (26 January 1904 – 9 November 1992) was an author and one-time missionary who is widely credited as being the inspiration for Ian Fleming's James Bond quartermaster Q. During World War II, Fraser-Smith worked for the Ministry of Supply, fabricating equipment nicknamed \"Q-devices\" (after Q-ships) for SOE agents operating in occupied Europe. Prior to the war, Fraser-Smith had worked as a missionary in North Africa. After the war he purchased a dairy farm in Bratton Fleming, Devon, where he died in 1992.",
+    "Q (James Bond) hotpotqa_wikipedia. Q is a fictional character in the James Bond films and film novelisations. Q (standing for Quartermaster as well as a reference to the deceptive Q-ships) is a job title, unlike M, which is a cypher for the character's name. He is the head of Q Branch (or later Q Division), the fictional research and development division of the British Secret Service.",
+    "Kingsman (franchise) hotpotqa_wikipedia. Kingsman is a British-American media franchise focused on the fictional organisation \"Kingsman\", which originally appeared in a UK-made spy action-comedy comic book series written by Mark Millar and Dave Gibbons, colored by Angus McKie, edited by Nicole Wiley Boose, published by Icon Comics, an imprint of American published Marvel Comics. Volume 1 of this series, released in 2012, deals with a super-spy recruiting his young nephew to the secret service, channeling the classic James Bond films, and other spy thrillers. The first volume of the series was originally known simply as The Secret Service and was rebranded to tie-in with the The comic series is set in Mark Millar's shared universe, the \"Millarverse\"; with the celebrity kidnappings taking place in \"Kingsman\" Vol.",
+    "Director of the United States Secret Service hotpotqa_wikipedia. The Director of the United States Secret Service is the head of the U.S. Secret Service, and responsible for the day-to-day operations. The Secret Service is concerned with the prevention and investigation of counterfeiting of U.S. currency and U.S. treasury securities, and the protection of current and former national leaders and their families, such as the President and Vice President, and foreign dignitaries.",
+    "No. 1 of the Secret Service hotpotqa_wikipedia. No. 1 of the Secret Service is a 1977 imitation James Bond film starring Nicky Henson as British secret agent Charles Bind. It was directed and written by Lindsay Shonteff and produced by his wife Elizabeth Gray. The film had the working title of 008 of the Secret Service. It was released on VHS under the title Her Majesty’s Top Gun."
+  ],
+  "metrics": {
+    "retrieval_coverage_proxy": 1.0,
+    "groundedness": 0.5,
+    "citation_quality": 0.7
+  }
+}

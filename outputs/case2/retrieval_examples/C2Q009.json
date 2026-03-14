@@ -1,0 +1,22 @@
+{
+  "query_id": "C2Q009",
+  "retrieved_doc_ids": [
+    "D52294",
+    "D96336",
+    "D71080",
+    "D03447",
+    "D38053"
+  ],
+  "contexts": [
+    "Judith Weir hotpotqa_wikipedia. Judith Weir {'1': \", '2': \", '3': \", '4': \"} (born 11 May 1954) is a British composer and Master of the Queen's Music.",
+    "George Gershwin hotpotqa_wikipedia. George Jacob Gershwin ( ; September 26, 1898 July 11, 1937) was an American composer and pianist. Gershwin's compositions spanned both popular and classical genres, and his most popular melodies are widely known. Among his best-known works are the orchestral compositions \"Rhapsody in Blue\" (1924) and \"An American in Paris\" (1928) as well as the opera \"Porgy and Bess\" (1935).",
+    "Hershey Felder hotpotqa_wikipedia. Hershey Felder (born July 9, 1968) is a Canadian pianist, actor, playwright, composer, producer, and director. He created (as playwright, actor, and pianist) the role of American composer George Gershwin for the theatrical stage in the play \"George Gershwin Alone\", which was followed by the creation of the roles of Fryderyk Chopin, the Polish composer-pianist; Ludwig van Beethoven and Gerhard von Breuning in \"Beethoven\"; Leonard Bernstein in \"Maestro Bernstein\"; Franz Liszt in \"Musik\"; Irving Berlin in \"Hershey Felder as Irving Berlin\"; and Piotr Ilyich Tchaikovsky in \"Our Great Tchaikovsky\". \"The Composer Sonata\" comprises these works.",
+    "Armida (Weir) hotpotqa_wikipedia. Armida is an opera by British composer Judith Weir. It premiered on 25 December 2005 as a television broadcast on the UK station, Channel 4 which had commissioned the work. The English libretto, also written by Weir, is loosely based on the story of Rinaldo and Armida, in Torquato Tasso's 1581 epic poem set in the First Crusade, \"La Gerusalemme liberata\" (\"Jerusalem Delivered\").",
+    "Jamie Brown (composer) hotpotqa_wikipedia. Jamie Brown (born 1980) is a British classical composer who studied with Judith Weir in London. He is also a professional linguist and has previously lived in Belo Horizonte, Brazil. Musically, he is predominantly interested in vocal music, particularly for the stage, and influences range from Judith Weir and Benjamin Britten to Björk, Sigur Rós and folk music from around the world."
+  ],
+  "metrics": {
+    "retrieval_coverage_proxy": 1.0,
+    "groundedness": 1.0,
+    "citation_quality": 0.9
+  }
+}

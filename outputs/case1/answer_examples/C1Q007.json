@@ -1,0 +1,7 @@
+{
+  "query_id": "C1Q007",
+  "query": "Out of the actors who have played the role of Luc Deveraux in the Universal Soldier franchise, which actor has also starred in the movies Holby City, Doctor Strange, the Bourne Ultimatum and Zero Dark Thirty?",
+  "generated_answer": "Scott Edward Adkins",
+  "reference_answer": "Scott Adkins",
+  "error_type": "NONE"
+}

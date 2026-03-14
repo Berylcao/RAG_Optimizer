@@ -1,0 +1,22 @@
+{
+  "query_id": "C2Q013",
+  "retrieved_doc_ids": [
+    "D86362",
+    "D85044",
+    "D42162",
+    "D35916",
+    "D75371"
+  ],
+  "contexts": [
+    "Lisa Simpson hotpotqa_wikipedia. Lisa Marie Simpson is a fictional character in the animated television series \"The Simpsons\". She is the middle child and most intelligent of the Simpson family. Voiced by Yeardley Smith, Lisa first appeared on television in \"The Tracey Ullman Show\" short \"Good Night\" on April 19, 1987. Cartoonist Matt Groening created and designed her while waiting to meet James L. Brooks. Groening had been invited to pitch a series of shorts based on his comic \"Life in Hell\", but instead decided to create a new set of characters. He named the elder Simpson daughter after his younger sister Lisa Groening.",
+    "Matt Groening hotpotqa_wikipedia. Matthew Abraham \"Matt\" Groening ( ; born February 15, 1954) is an American cartoonist, writer, producer, animator, and voice actor. He is the creator of the comic strip \"Life in Hell\" (1977–2012) and the television series \"The Simpsons\" (1989–present), \"Futurama\" (1999–2003, 2008–2013), and the upcoming \"Disenchantment\" (2018). \"The Simpsons\" has gone on to become the longest-running U.S. primetime-television series in history, as well as the longest-running animated series and sitcom.",
+    "All About Lisa hotpotqa_wikipedia. \"All About Lisa\" is the twentieth episode and season finale of \"The Simpsons\"<nowiki>'</nowiki> nineteenth season. It originally aired on the Fox network in the United States on May 18, 2008. Lisa Simpson becomes Krusty the Clown's newest assistant and steals his spotlight. She wins Entertainer of the Year at the Springfield Media awards, but is warned that with her sudden fame comes a new attitude towards others and herself. Meanwhile, Homer and Bart bond over their newfound love of coin collecting. The episode features narration by Sideshow Mel. It was written by John Frink and directed by Steven Dean Moore. Drew Carey guest voices as himself, appearing as a guest on Krusty's show.",
+    "Lisa Goes Gaga hotpotqa_wikipedia. \"Lisa Goes Gaga\" is the twenty-second and final episode of the twenty-third season of the American animated sitcom \"The Simpsons\". It originally aired on the Fox network in the United States on May 20, 2012. In the episode, American singer-songwriter Lady Gaga makes a visit to Springfield, where all of its residents are in a state of depression. Main character Lisa Simpson is arguably the most depressed person in the city, prompting Gaga to go out of her way to teach Lisa the meaning of happiness.",
+    "The Secret War of Lisa Simpson hotpotqa_wikipedia. \"The Secret War of Lisa Simpson\" is the twenty-fifth and final episode of \"The Simpsons\"<nowiki>'</nowiki> eighth season. It first aired on the Fox network in the United States on May 18, 1997. Bart gets sent to a military academy as punishment for bad behavior. While visiting the academy, Lisa sees that the school is far more challenging than hers and she decides that she wants to attend as well. It was directed by Mike B. Anderson, written by Richard Appel and featured Willem Dafoe in a guest spot as the school's commandant."
+  ],
+  "metrics": {
+    "retrieval_coverage_proxy": 1.0,
+    "groundedness": 1.0,
+    "citation_quality": 1.0
+  }
+}

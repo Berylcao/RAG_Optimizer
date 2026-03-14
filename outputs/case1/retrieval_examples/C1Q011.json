@@ -1,0 +1,22 @@
+{
+  "query_id": "C1Q011",
+  "retrieved_doc_ids": [
+    "D41301",
+    "D55060",
+    "D97708",
+    "D56139",
+    "D33418"
+  ],
+  "contexts": [
+    "Kieft's War, also known as the Wappinger War, was a conflict (1643–1645) between settlers of the nascent colony of New Netherland and the native Lenape population in what would later become the New York metropolitan area of the United States. It is named for Director-General of New Netherland Willem Kieft, who had ordered an attack without approval of his advisory council and against the wishes of the colonists. Dutch soldiers attacked Lenape camps and massacred the native inhabitants, which encouraged unification among the regional Algonquian tribes against the Dutch, and precipitated waves of attacks on both sides. This was one of the earliest conflicts between Native Americans and European settlers. Displeased with Kieft, the Dutch West India Company recalled him and he died while returning to the Netherlands. Peter Stuyvesant succeeded him in New Netherland. Because of the continuing threat by the Algonquians, numerous Dutch settlers returned to the Netherlands, and growth of the colony slowed.",
+    "The Pound Ridge massacre was a battle of Kieft's War that took place in March 1644 between the forces of New Netherland and members of the Wappinger Confederacy at a Wappinger Confederacy village in the present-day town of Pound Ridge, New York. A mixed force of 130 Dutch and English soldiers led by Captain John Underhill launched a night attack on the village and destroyed it with fire. 500 to 700 members of the Wappinger Confederacy were killed while the New Netherland force lost one man killed and fifteen wounded. More casualties were suffered in this attack than in any other single incident in the war. Shortly after the battle several local Wappinger Confederacy sachems sued for peace.",
+    "The Council of Twelve Men was a group of 12 men, chosen on 29 August 1641 by the residents of New Netherland to advise the Director of New Netherland, Willem Kieft, on relations with the Native Americans due to the murder of Claes Swits. Although the council was not permanent, it was the first representational form of democracy in the Dutch colony. The next two councils created were known as the Eight Men and the Nine Men",
+    "The Rumanchenank were a Lenape people who inhabited the region radiating from the Palisades in New York and New Jersey at the time of European colonialization in the 17th century. Settlers to the provincial colony of New Netherland called them the \"Haverstroo\" meaning \"oat straw\", which became \"Haverstraw\" in English, and still used to describe part of their territory.",
+    "Joris Jansen Rapelje (28 April 1604 – 21 February 1662/63) was a member of the Council of Twelve Men in the Dutch West India Company colony of New Netherland. He and his wife Catalina (Catalyntje) Trico (1605–1689) were among the earliest settlers in New Netherland."
+  ],
+  "metrics": {
+    "context_recall": 1.0,
+    "answer_similarity": 1.0,
+    "faithfulness": 1.0
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "query_id": "C1Q007",
+  "retrieved_doc_ids": [
+    "D56681",
+    "D02477",
+    "D99918",
+    "D26929",
+    "D45225"
+  ],
+  "contexts": [
+    "Luc Deveraux is a fictional character and the protagonist of the \"Universal Soldier\" film series. He is most famously portrayed by Belgian actor and martial artist Jean-Claude Van Damme. Van Damme portrays Luc in the 1992 film \"Universal Soldier\" and its sequels \"\" (1999), \"\" (2009), and \"\" (2012); he is portrayed by Matt Battaglia in the direct-to-video sequels \"\" (1998) and \"\" (1998).",
+    "The Universal Soldier franchise is a series of science fiction action films. The franchise began in 1992 with \"Universal Soldier\" and as of 2012 comprises six entries (some of which are now considered non-canon). The films centered on the character of Luc Deveraux (played first by Jean-Claude Van Damme and then by Matt Battaglia) until \"\", which focuses on a new protagonist named John (played by Scott Adkins).",
+    "Universal Soldier is a 1992 American military science fiction action film directed by Roland Emmerich, produced by Mario Kassar and Allen Shapiro, and written by Richard Rothstein and Dean Devlin. The film tells the story of Luc Deveraux, a former US Army soldier who was killed in Vietnam War in 1969, and returned to life following a secret military project called the \"Universal Soldier\" program. However, he finds out about his past even although his memory was erased, and escapes alongside a young TV journalist. Along the way, they have to deal with the return of his archenemy, Sgt. Andrew Scott, who had lost his sanity in the Vietnam War, and became a psychotic megalomaniac, intent on killing him and leading the Universal Soldiers. \"Universal Soldier\" was released by TriStar Pictures on July 10, 1992. The film grossed $36 million worldwide against its budget of $23 million. It spawned a series of films, including several rather poorly received direct-to-TV films: \"\", which has since been removed from the series canon, followed by \"\" and \"\".",
+    "Scott Edward Adkins (born 17 June 1976) is an English actor and martial artist who is best known for playing Russian prison fighter Yuri Boyka in the 2006 film \"\" and its following two sequels: \"\" (2010) and \"\" (2016) and Casey Bowman in Ninja and its sequel . He is also known for playing Bradley Hume in \"Holby City\", Lucian in \"Doctor Strange\", Kiley in \"The Bourne Ultimatum\" and John in \"Zero Dark Thirty\". Adkins has also appeared in \"EastEnders\", \"Hollyoaks\", \"Doctors\" as well as starred in many direct-to-video films.",
+    "\"Zero Dark Thirty\" is a 2012 American action thriller directed and co-produced by Kathryn Bigelow with screenplay by Mark Boal. The film was released in the United States on December 19, 2012, with a limited release at five theaters in Los Angeles and New York City. It made $124,848 in its limited release weekend, making it one of the biggest limited mid-week openings ever. As of March 6, 2013, \"Zero Dark Thirty\" has grossed a worldwide total of $106.8 million. \"Zero Dark Thirty\" also received a high critical acclaim, accumulating an approval rating of 93% on the review aggregator site Rotten Tomatoes."
+  ],
+  "metrics": {
+    "context_recall": 1.0,
+    "answer_similarity": 0.9020359230041505,
+    "faithfulness": 1.0
+  }
+}
